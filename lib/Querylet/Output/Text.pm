@@ -12,7 +12,7 @@ Querylet::Output::Text - output querylet results to text tables
 
 version 0.11
 
- $Id: Text.pm,v 1.2 2004/12/16 16:02:11 rjbs Exp $
+ $Id$
 
 =cut
 
