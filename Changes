@@ -1,5 +1,8 @@
 Revision history for Querylet-Output-Text
 
+{{$NEXT}}
+          update bugtracker and repo metadata
+
 0.112   2006-11-16
         add machine-readable license
 
